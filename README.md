@@ -1,276 +1,138 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:00ff88&height=220&section=header&text=Dharun%20Kumar%20S&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=ECE%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20%7C%20Embedded%20Systems&descSize=18&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=DHARUN%20N&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Exploring%20Cloud%20%26%20Data%20Analytics&descAlignY=60&descAlign=50&descColor=ffffff" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%93+Pre-Final+Year+ECE+Student;%F0%9F%92%BB+MERN+Stack+%7C+IoT+%7C+Embedded+Systems;%F0%9F%9A%80+Building+Real-World+Solutions" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=Dharun-Navamani&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="profile views"/>
-&nbsp;
-<a href="https://github.com/Dharun-Navamani?tab=followers"><img src="https://img.shields.io/github/followers/Dharun-Navamani?label=Followers&style=for-the-badge&color=00ff88&labelColor=0d1117" alt="followers"/></a>
-&nbsp;
-<a href="https://github.com/Dharun-Navamani?tab=repositories"><img src="https://img.shields.io/badge/Repos-18+-ff3366?style=for-the-badge&labelColor=0d1117" alt="repos"/></a>
-</p>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp;About Me
-
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```yaml
-Name: Dharun Kumar S
-Location: Karur, Tamil Nadu, India 🇮🇳
-Education: Pre-Final Year B.E. (ECE)
-Current Focus: Full Stack + IoT + Embedded Systems
-Goal: Core ECE & IT Roles
-Fun Fact: I think in circuits and code in coffee ☕
-```
-
-- 🔌 Passionate about **Embedded Systems, IoT, RF & Full Stack Development**
-- 💻 Skilled in **MERN Stack, C, Embedded C, Java, Python**
-- 📡 Exploring **Antenna Design** using **CST Studio**
-- 🌱 Currently mastering **React, FastAPI & Real-Time Systems**
-- 🤝 Open to collaborating on **IoT, Web & Embedded projects**
-- 📫 Reach me at **dharun151** · [LinkedIn](https://www.linkedin.com/in/dharun-kumar-s/)
-
-<br clear="right"/>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp;Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Programming Languages
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded_C-003B57?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-### 🌐 Web & Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Database
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🔧 IoT, Hardware & Tools
-<p>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/CST_Studio-1a1a2e?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp;Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 [PulseMarket — Real-Time Stock Analytics](https://github.com/Dharun-Navamani/Realtime-Stock-market-analysis)
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-ff3366?style=flat-square&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</p>
-
-Real-time stock market dashboard with **WebSocket streaming**, AI trading signals, portfolio tracker, price alerts & retail sales analytics. Tracks US & Indian markets.
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 [Vehicle Service Management System](https://github.com/DHARUN151/vehicle-service-management-system)
-
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-</p>
-
-Complete vehicle service center management system for **service records, customers, and vehicles**. CRUD operations, service history tracking, and admin dashboard.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💧 IoT — Water Quality Monitoring for Agriculture
-
-<p>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sensors-ff8c00?style=flat-square&logo=adafruit&logoColor=white"/>
-</p>
-
-ESP32-based IoT system to monitor **TDS, pH, and temperature** in real-time. Cloud-connected dashboard for farmers to track water quality for agriculture.
-
-</td>
-<td width="50%" valign="top">
-
-### 📶 [Smart WiFi Heatmap Generation](https://github.com/DHARUN151/Smart-wifi-heatmap-generation)
-
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/WiFi_Analysis-00d2ff?style=flat-square&logo=wifi&logoColor=white"/>
-</p>
-
-Smart WiFi signal strength mapping using **ESP32 and C++**. Generates visual heatmaps to optimize wireless network coverage and identify dead zones.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 [Library Management System](https://github.com/DHARUN151/Library-Management-System)
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
-Full-stack library management with **book cataloging, borrowing system, member management**, and search. Built with Node.js and MongoDB.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [Login Credentials — Auth REST API](https://github.com/DHARUN151/Login-Credentials)
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-Scalable REST API with **JWT authentication & role-based access control**. User registration, login, and protected route middleware.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌿 [Vijaya Herbs — E-Commerce Website](https://github.com/DHARUN151/vijaya-herbs)
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-Beautiful e-commerce website for herbal products with **responsive design**, product catalog, modern UI, smooth animations and mobile-first approach.
-
-</td>
-<td width="50%" valign="top">
-
-### 📇 [My Contact Manager](https://github.com/DHARUN151/My-Contact-Manager)
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-</p>
-
-Full-stack contact management app with **CRUD operations**, search functionality, clean UI. Separate frontend and backend architecture.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DHARUN151&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d2ff&text_color=c9d1d9&ring_color=00ff88" alt="GitHub Stats"/>
-&nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DHARUN151&theme=radical&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff3366&currStreakLabel=00d2ff&sideLabels=c9d1d9&currStreakNum=00ff88&dates=555555" alt="GitHub Streak"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Student+%7C+Aspiring+Cloud+Data+Analyst+%F0%9F%93%8A;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript+%F0%9F%92%BB;Building+Full-Stack+Real-World+Projects+%F0%9F%94%A5;Learning+Cloud+%26+Data+Analytics+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARUN151&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Dharun-Navamani&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharun-navamani-485433290/)
+[![Instagram](https://img.shields.io/badge/Instagram-beast__dharun-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beast_dharun/)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="30" /> &nbsp;Contribution Graph
+## 🚀 FEATURED PROJECTS
+
+### 📈 [PulseMarket — Realtime Stock Market Analysis](https://github.com/Dharun-Navamani/Realtime-Stock-market-analysis)
+> A real-time stock analytics platform with live WebSocket price streaming, interactive charts, AI trading signals (Bullish/Bearish/Neutral), portfolio tracker, smart price alerts, and a retail sales dashboard.
+
+**What it does:**
+- Streams live prices for 9 stocks across **US (NASDAQ/NYSE) and Indian (NSE) markets** via WebSocket
+- AI-powered trading signals using RSI, MACD crossovers, and moving averages
+- Full **Portfolio P&L tracking** with live updates
+- Retail Sales **CRUD dashboard** with revenue analytics
+- Deployed on Vercel + Render
+
+**Tech:** `TypeScript` `React 18` `Vite` `FastAPI (Python)` `WebSocket` `Recharts` `Pandas` `yfinance`
+
+🔗 **Live:** [realtime-stock-market-analysis.vercel.app](https://realtime-stock-market-analysis.vercel.app)
+
+---
+
+### 🛡️ [Army Weapon Management System (AWMS)](https://github.com/Dharun-Navamani/Army-Weapon-Management-System)
+> A full-stack military weapon lifecycle platform with JWT auth, role-based access (Admin / Officer / Soldier), weapon inventory CRUD, assignment tracking, maintenance scheduling, ammunition monitoring, mission logging, audit trails, and PDF report generation.
+
+**What it does:**
+- Secure **JWT login** with 3 role tiers and BCrypt password hashing
+- Full weapon inventory with search, filters, and status tracking
+- **Maintenance request workflow**: Pending → In Progress → Completed
+- Ammunition **low-stock auto-alerts** dashboard
+- Mission logs linking weapons and soldiers
+- Auto-logged **audit trail** for all operations
+- PDF export for weapon inventory reports
+
+**Tech:** `Java 17` `Spring Boot 3.2.5` `Spring Security` `MySQL 8.0` `React 18` `Tailwind CSS` `Recharts` `iText 7` `Swagger/OpenAPI 3` `Maven`
+
+🔗 **Live:** [army-weapon-management-system.vercel.app](https://army-weapon-management-system.vercel.app)
+
+---
+
+### 📡 [Smart WiFi Heatmap Generation](https://github.com/Dharun-Navamani/smart-wifi-heatmap-generation)
+> Generates visual WiFi signal strength heatmaps.
+
+**Tech:** `C++` `HTML` `JavaScript`
+
+---
+
+### 💼 [Portfolio Website](https://github.com/Dharun-Navamani/dharun-portfolio)
+> Personal portfolio built with JavaScript — 1 ⭐
+
+**Tech:** `JavaScript` `HTML` `CSS`
+
+---
+
+## 🛠️ TECH I WORK WITH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHARUN151&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00d2ff&point=ff3366&area=true&area_color=00ff8830" width="98%" alt="Contribution Graph"/>
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL_8-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Currently Exploring**
+
+![Cloud](https://img.shields.io/badge/Cloud_Computing-☁️_Exploring-informational?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-📊_Exploring-informational?style=for-the-badge)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> &nbsp;GitHub Trophies
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DHARUN151&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharun-Navamani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharun-Navamani&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharun-Navamani&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="Handshake" width="30" /> &nbsp;Connect With Me
+## 🤝 CONNECT
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dharun-kumar-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="https://github.com/DHARUN151"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-&nbsp;
-<a href="mailto:dharunkumars151@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-&nbsp;
-<a href="http://dharun151"><img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Portfolio"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dharun--navamani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharun-navamani-485433290/)
+[![Instagram](https://img.shields.io/badge/Instagram-beast__dharun-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beast_dharun/)
+[![GitHub](https://img.shields.io/badge/GitHub-Dharun--Navamani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharun-Navamani)
 
-<br/><br/>
+</div>
 
-### 💡 *"Learning by building. Growing by sharing."*
+---
 
-<br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:00ff88&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>
