@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=DHARUN%20N&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=B.E.%20ECE%20%7C%20Java%20Full%20Stack%20%7C%20Exploring%20Cloud%20%26%20Data%20Analytics&descAlignY=60&descAlign=50&descColor=ffffff" />
+<h1 align="center">DHARUN NAVAMANI</h1>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=DHARUN%20NAVAMANI&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=B.E.%20ECE%20%7C%20Java%20Full%20Stack%20%7C%20Exploring%20Cloud%20%26%20Data%20Analytics&descAlignY=60&descAlign=50&descColor=ffffff" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=B.E.+Electronics+%26+Communication+Engineering+%F0%9F%8E%93;Java+Full+Stack+Developer+(Learning)+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+MySQL+%7C+Python;Exploring+Cloud+%26+Data+Analytics+%E2%98%81%EF%B8%8F%F0%9F%93%8A;Figma+Certified+%7C+AI+Workshop+%7C+Hackathon+Participant+%F0%9F%9A%80" alt="Typing SVG" />
